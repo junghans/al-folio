@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 | Affiliation | [Los Alamos National Laboratory](http://www.lanl.gov) |
 | Web | [Official Homepage](http://www.lanl.gov/junghans) |
 | Phone | ++1-505-665-2278 |
-| Email | later |
+| Email | ![email](assets/img/email.png) |
