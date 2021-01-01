@@ -11,11 +11,11 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Private Homepage of Christoph Junghans 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  <a href="impressum/">Impressum</a>.
 
 url: https://www.compphys.de # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
+impressum: true # set to true to include impressum link in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
