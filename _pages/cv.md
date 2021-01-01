@@ -30,7 +30,7 @@ nav: true
 ### Work Experience ###
 
 <style>
-table th:first-of-type {
+table td:first-of-type {
     width: 25em;
 }
 </style>
