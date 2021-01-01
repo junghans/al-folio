@@ -34,6 +34,7 @@ table td:first-of-type {
     width: 12em;
 }
 </style>
+
 | July 2018 - Present    | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
 | Jan. 2017 - July 2018  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
@@ -50,6 +51,7 @@ table td:first-of-type {
 | Feb. 2003 - Apr. 2003  | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Halle, Germany
 | Mar. 2002              | Student Assistant, Institute for Theoretical Physics, University of Leipzig
 | |
+
 <style>
 table td:first-of-type {
     width:;
@@ -71,6 +73,7 @@ table td:first-of-type {
 | Nov. 2005 | Wolfgang Natonek award, University of Leipzig
 | Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
 | July 2000 | Book award of the German Physical Society (DPG) for high school graduates
+| |
 
 ### Open Source Projects ###
 
@@ -81,7 +84,7 @@ table td:first-of-type {
 | [ESPReSo++](http://www.espresso-pp.de) | Successor of the ESPResSo simulation package | Developer
 | [GroMaCS](http://www.gromacs.org) | Versatile package to perform molecular dynamics | Developer (inactive)
 | [ESPReSo](http://www.espressomd.org) | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
-
+| |
 
 For more infomation see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans)
 
@@ -129,10 +132,10 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 ### Computer Skills ###
 
 | **General**               | Linux, AIX, Mac OS, DOS, Windows
-| **Programming**           | C, Fortran, MPI, OpenMP
+| **Programming**           | C, C++, Fortran, MPI, OpenMP
 | **Scripting**             | Shell, awk, Perl, expect, PHP, tcl, Python
 | **Markup Languages**      | HTML, latex, mediawiki, txt2tags
-
+| |
 
 ### Teaching Experience ###
 
@@ -143,6 +146,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Apr. 2007 - Sep. 2007 | Theoretical physics I, Johannes Gutenberg University of Mainz
 | Apr. 2006 - Sep. 2006 | Introduction to computer simulations I, University of Leipzig
 | Sep. 2004 - Oct. 2004 | Mathematical preparation course for first-year students, University of Leipzig
+| |
 
 #### Mentoring ####
 
@@ -171,6 +175,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Jun. 2013 - Aug. 2013  | Co-Design Summer School (6 Students), Los Alamos National Laboratory
 | Jun. 2010 - Aug. 2010  | Summer Student, University of Mainz
 | Oct. 2005 - Mar. 2006  | Simulation methods in generalized ensembles (2 Students), University of Leipzig
+| |
 
 #### Tutorials (invited) ####
 
@@ -189,13 +194,14 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | July 2012 | Gromacs Tutorial, [The Sixth q-bio Summer School](http://cnls.lanl.gov/q-bio/wiki/index.php/The_Sixth_q-bio_Summer_School:_Biomolecular_Simulations), Santa Fe, NM
 | Oct. 2011 | Hands-on: VOTCA, [CECAM](http://www.cecam.org) [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo"](http://www.cecam.org/workshop-532.html), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | May 2010  | Votca Workshop, [CSI Darmstadt](http://www.csi.tu-darmstadt.de/)
+| |
 
 ### Talks ###
 
 #### Colloquium Talks ####
 
 | July 2011 | "Locality Analysis via Adaptive Resolution Simulations", Theoriekolloquium, [Faculty of Natural Sciences II](http://www.natfak2.uni-halle.de), [Martin Luther University Halle-Wittenberg](http://www.uni-halle.de)
-
+| |
 
 #### Invited Talks ####
 
@@ -209,7 +215,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Oct. 2011 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo"](http://www.cecam.org/workshop-532.html), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Oct. 2010 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Simulating Soft Matter with ESPResSo"](http://www.cecam.org/workshop-4-489.html), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Nov. 2007 | "Controlling material properties using a thermostat", [CompPhys07](http://www.physik.uni-leipzig.de/~janke/CompPhys07), [ITP Leipzig](http://www.physik.uni-leipzig.de)
-
+| |
 
 #### Seminar Talks (invited) ####
 
@@ -230,7 +236,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", Computational Biology Cluster Seminar, IFF-2, [FZ Jülich](http://www.fz-juelich.de/portal/EN/Home/home_node.html)
 | July 2009 | "New HPC libraries for performance improvements", IBM Systems & Technology Group
 | June 2007 | "Extensions to Dissipative Particle Dynamics", [Faculty of Science ](http://www.naturvetenskap.lu.se), [Lund University](http://www.lunduniversity.lu.se)
-
+| |
 
 #### Contributed Talks ####
 
@@ -251,6 +257,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Nov. 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08](http://www.physik.uni-leipzig.de/~janke/CompPhys08), [ITP Leipzig](http://www.physik.uni-leipzig.de)
 | June 2008 | "Adjusting dynamic material properties by a thermostat", ICMMES 2008, [University of Amsterdam](http://www.uva.nl)
 | Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008](http://berlin08.dpg-tagungen.de/index.html?lang=en), Berlin
+| |
 
 ### Publications ###
 
