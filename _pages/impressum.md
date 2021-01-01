@@ -14,7 +14,7 @@ D-04824 Beucha<br>
 
 ## Kontakt ##
 
-Email: [../assets/img/email.png]<br>
+Email: ![email](../assets/img/email.png)<br>
 
 # Disclaimer - rechtliche Hinweise #
 
