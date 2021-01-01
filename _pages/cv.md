@@ -241,10 +241,10 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Aug. 2015 | "Coarse-graining using VOTCA and LAMMPS", [August 2015 LAMMPS Users' Workshop and Symposium](http://lammps.sandia.gov/workshops/Aug15/workshop.html), Albuquerque, NM
 | May  2015 | "Parallel Runtime Environments with Cloud Database: Performance Study for HMM with Adaptive Sampling", [13th Annual Workshop on Charm++ and its Applications](http://charm.cs.illinois.edu/workshops/charmWorkshop2015/), Champaign-Urbana
 | Mar. 2014 | "Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics", [APS March Meeting 2014](http://www.aps.org/meetings/meeting.cfm?name=MAR14), Denver
-| Sep. 2013 | "Adaptive Resolution Simulations of C60 in Toluene", [Gromacs USA Workshop and Conference](http://faculty.virginia.edu/gromacsworkshop/), [UVA](http://www.virginia.edu/)
+| Sep. 2013 | "Adaptive Resolution Simulations of C60 in Toluene", Gromacs USA Workshop and Conference, [UVA](http://www.virginia.edu/)
 | Aug. 2013 | "Introduction to coarse-graining of liquids and soft matter", [August 2013 LAMMPS Users' Workshop and Symposium](http://lammps.sandia.gov/workshops/Aug13/agenda.html), Albuquerque, NM
-| Mar. 2013 | "Recent developments in the VOTCA package for coarse-graining", [APS March Meeting 2013](http://www.aps.org/meetings/meeting.cfm?name=MAR13), Baltimore
-| Sep. 2012 | "Multi-scale simulations of fullerenes in aqueous solution employing the Adaptive Resolution Scheme", [IWCMM XXII](http://iwcmm22.jhu.edu/)
+| Mar. 2013 | "Recent developments in the VOTCA package for coarse-graining", [APS March Meeting 2013](http://www.aps.org/meetings/meeting.cfm?name=MAR13),
+| Sep. 2012 | "Multi-scale simulations of fullerenes in aqueous solution employing the Adaptive Resolution Scheme", 22nd International Workshop on Computational Mechanics of Materials (IWCMM XXII),[Johns Hopkins University](https://www.jhu.edu/)
 | Mar. 2012 | "Structure formation of toluene around C60: Application of the Adaptive Resolution Scheme", [APS March Meeting 2012](http://www.aps.org/meetings/meeting.cfm?name=MAR12), Boston
 | Feb. 2012 | "Local structure formation of toluene around a C60 fullerene: An adaptive resolution study", [25th Annual CSP Workshop](http://www.csp.uga.edu/Workshop/2012), [Center for Simulational Physics](http://www.csp.uga.edu), [University of Georgia](http://www.uga.edu)
 | Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", [CompPhys09](http://www.physik.uni-leipzig.de/~janke/CompPhys09), [ITP Leipzig](http://www.physik.uni-leipzig.de)
@@ -255,5 +255,5 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 ### Publications ###
 
-see [here](publications)
+see [here](../publications)
 
