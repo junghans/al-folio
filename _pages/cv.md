@@ -31,7 +31,7 @@ nav: true
 
 <style>
 table td:first-of-type {
-    width: 12em;
+    width: 11em;
 }
 </style>
 
@@ -174,19 +174,19 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 #### Tutorials (invited) ####
 
 | Aug. 2019 | "VOTCA and LAMMPS for electronic spectroscopy and transport" (Tutorial), [LAMMPS Workshop and Symposium](https://lammps.sandia.gov/workshops/Aug19/workshop.html), Albuquerque, NM
-| Oct. 2016 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-1371.html), Mainz, Germany
+| Oct. 2016 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-details/327), Mainz, Germany
 | May  2016 | Gitlab Hands-On course, ASC/NGC Program, LANL
 | Oct. 2015 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM](http://www.cecam.org) [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Sep. 2015 | Git Hands-On course, ASC/NGC Program, LANL
 | Nov. 2014 | Git IC Tutorial, Institutional Computing, LANL
-| Oct. 2014 | Hands-on: VOTCA, [CECAM](http://www.cecam.org) ["School on Multiscale Modeling and Use of Espresso++ and VOTCA"](http://www.cecam.org/workshop-1076.html), Mainz, Germany
+| Oct. 2014 | Hands-on: VOTCA, [CECAM](http://www.cecam.org) ["School on Multiscale Modeling and Use of Espresso++ and VOTCA"](https://www.cecam.org/workshop-details/505), Mainz, Germany
 | Aug. 2014 | Gromacs Tutorial, [The Eighth q-bio Summer School](http://q-bio.org/wiki/The_Eighth_q-bio_Summer_School), Albuquerque, NM ([LA-UR 14-26188](http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-14-26188))
 | June 2014 | Gromacs IC Tutorial, Institutional Computing, LANL ([LA-UR 14-24814](http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-14-24814))
 | Oct. 2013 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM](http://www.cecam.org) [Summer School "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/ess2013/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
-| July 2013 | Gromacs Tutorial, [The Seventh q-bio Summer School](http://www.q-bio.org/wiki/The_Seventh_q-bio_Summer_School:_Biomolecular_Simulations), Santa Fe, NM
+| July 2013 | Gromacs Tutorial, [The Seventh q-bio Summer School](http://q-bio.org/wiki/The_Seventh_q-bio_Summer_School), Santa Fe, NM
 | Oct. 2012 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM](http://www.cecam.org) [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/ess2012/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | July 2012 | Gromacs Tutorial, [The Sixth q-bio Summer School](http://cnls.lanl.gov/q-bio/wiki/index.php/The_Sixth_q-bio_Summer_School:_Biomolecular_Simulations), Santa Fe, NM
-| Oct. 2011 | Hands-on: VOTCA, [CECAM](http://www.cecam.org) [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo"](http://www.cecam.org/workshop-532.html), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
+| Oct. 2011 | Hands-on: VOTCA, [CECAM](http://www.cecam.org) [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo"](https://www.cecam.org/workshop-details/797), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | May 2010  | Votca Workshop, [CSI Darmstadt](http://www.csi.tu-darmstadt.de/)
 | |
 
@@ -199,9 +199,9 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 #### Invited Talks ####
 
-| Oct. 2016 | "Recent developments in VOTCA", [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-1371.html), Mainz, Germany
+| Oct. 2016 | "Recent developments in VOTCA", [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-details/327), Mainz, Germany
 | Oct. 2015 | "Recent and Future Developments of VOTCA", [CECAM](http://www.cecam.org) [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
-| Oct. 2014 | "Introduction to coarse-graining of liquids and soft matter using VOTCA", [CECAM](http://www.cecam.org) ["School on Multiscale Modeling and Use of Espresso++ and VOTCA"](http://www.cecam.org/workshop-1076.html), Mainz, Germany
+| Oct. 2014 | "Introduction to coarse-graining of liquids and soft matter using VOTCA", [CECAM](http://www.cecam.org) ["School on Multiscale Modeling and Use of Espresso++ and VOTCA"](https://www.cecam.org/workshop-details/505), Mainz, Germany
 | Oct. 2013 | "Recent and Future Developments of VOTCA", [CECAM](http://www.cecam.org) [Summer School "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/ess2013/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Oct. 2012 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/ess2012/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | June 2012 | "Molecular Dynamics using Gromacs", Intel EPOCH, Workshop, Portland, OR
