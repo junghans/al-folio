@@ -206,8 +206,8 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Oct. 2012 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/ess2012/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | June 2012 | "Molecular Dynamics using Gromacs", Intel EPOCH, Workshop, Portland, OR
 | June 2012 | ["Towards a Unified Framework for Coarse-graining Particle-based Simulations"](http://online.kitp.ucsb.edu/online/multiscale_c12/junghans/), [KITP](http://www.kitp.ucsb.edu) [Conference: "Modeling Soft Matter: Linking Multiple Length and Time Scales"](http://www.kitp.ucsb.edu/activities/dbdetails?acro=multiscale-c12), [UCSB](http://www.ucsb.edu)
-| Oct. 2011 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo"](http://www.cecam.org/workshop-532.html), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
-| Oct. 2010 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Simulating Soft Matter with ESPResSo"](http://www.cecam.org/workshop-4-489.html), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
+| Oct. 2011 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo"](https://www.cecam.org/workshop-details/797), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
+| Oct. 2010 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Simulating Soft Matter with ESPResSo"](https://www.cecam.org/workshop-details/820), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Nov. 2007 | "Controlling material properties using a thermostat", [CompPhys07](http://www.physik.uni-leipzig.de/~janke/CompPhys07), [ITP Leipzig](http://www.physik.uni-leipzig.de)
 | |
 
@@ -223,7 +223,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | May 2012 | ["Coarse-graining Using the VOTCA Package"](http://online.kitp.ucsb.edu/online/multiscale12/junghans/), [KITP](http://www.kitp.ucsb.edu) [Program: "Physical Principles of Multiscale Modeling, Analysis and Simulation in Soft Condensed Matter"](http://online.kitp.ucsb.edu/online/multiscale12/), [UCSB](http://www.ucsb.edu)
 | July 2011 | "Locality Analysis via Adaptive Resolution Simulations", [DFH-UFA](http://www.dfh-ufa.org) & [TKM](http://www.physik.uni-leipzig.de/index.php?id=8) Seminar, [Institut für Theoretische Physik](http://www.physik.uni-leipzig.de), [University of Leipzig](http://www.zv.uni-leipzig.de/en)
 | June 2011 | "Versatile object-oriented toolkit for coarse-graining applications", [Department of Materials and Environmental Chemistry](http://www.mmk.su.se), [Stockholm University](http://www.su.se)
-| Apr. 2011 | "Adaptive resolution simulations of aqueous solutions", Séminaire de Physique, [Biophysique et Physique Statistique](http://geomnat.de/sitegroupe/index_en.php), [UPV Metz](http://www.univ-metz.fr)
+| Apr. 2011 | "Adaptive resolution simulations of aqueous solutions", Séminaire de Physique, [Biophysique et Physique Statistique](https://www.lpct.univ-lorraine.fr/), [UPV Metz](http://www.univ-metz.fr)
 | Mar. 2011 | "Adaptive resolution simulations of water", [Theoretical and Computational Biophysics Group](http://www.ks.uiuc.edu), [UIUC](http://illinois.edu)
 | Mar. 2011 | "Adaptive resolution simulations of aqueous solutions", [Laufer Center for Physical and Quantitative Biology](http://laufercenter.stonybrook.edu), [Stony Brook University](http://www.stonybrook.edu)
 | Jan. 2011 | "Versatile object-oriented toolkit for coarse-graining applications", [Theoretical and Computational Department Biophysics](http://www.mpibpc.mpg.de/home/grubmueller), [MPI-BPC](http://www.mpibpc.mpg.de)
@@ -244,7 +244,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Sep. 2013 | "Adaptive Resolution Simulations of C60 in Toluene", Gromacs USA Workshop and Conference, [UVA](http://www.virginia.edu/)
 | Aug. 2013 | "Introduction to coarse-graining of liquids and soft matter", [August 2013 LAMMPS Users' Workshop and Symposium](http://lammps.sandia.gov/workshops/Aug13/agenda.html), Albuquerque, NM
 | Mar. 2013 | "Recent developments in the VOTCA package for coarse-graining", [APS March Meeting 2013](http://www.aps.org/meetings/meeting.cfm?name=MAR13),
-| Sep. 2012 | "Multi-scale simulations of fullerenes in aqueous solution employing the Adaptive Resolution Scheme", 22nd International Workshop on Computational Mechanics of Materials (IWCMM XXII),[Johns Hopkins University](https://www.jhu.edu/)
+| Sep. 2012 | "Multi-scale simulations of fullerenes in aqueous solution employing the Adaptive Resolution Scheme", 22nd International Workshop on Computational Mechanics of Materials (IWCMM XXII), [Johns Hopkins University](https://www.jhu.edu/)
 | Mar. 2012 | "Structure formation of toluene around C60: Application of the Adaptive Resolution Scheme", [APS March Meeting 2012](http://www.aps.org/meetings/meeting.cfm?name=MAR12), Boston
 | Feb. 2012 | "Local structure formation of toluene around a C60 fullerene: An adaptive resolution study", [25th Annual CSP Workshop](http://www.csp.uga.edu/Workshop/2012), [Center for Simulational Physics](http://www.csp.uga.edu), [University of Georgia](http://www.uga.edu)
 | Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", [CompPhys09](http://www.physik.uni-leipzig.de/~janke/CompPhys09), [ITP Leipzig](http://www.physik.uni-leipzig.de)
