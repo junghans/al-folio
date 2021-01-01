@@ -31,7 +31,7 @@ nav: true
 
 <style>
 table td:first-of-type {
-    width: 12em;
+    width: 10em;
 }
 </style>
 
@@ -52,12 +52,6 @@ table td:first-of-type {
 | Mar. 2002              | Student Assistant, Institute for Theoretical Physics, University of Leipzig
 | |
 
-<style>
-table td:first-of-type {
-    width:;
-}
-</style>
-
 ### Awards ###
 
 | Nov. 2019 | Top 10% most cited PLOS ONE papers published in 2015
@@ -77,13 +71,13 @@ table td:first-of-type {
 
 ### Open Source Projects ###
 
-| [VOTCA](http://www.votca.org) | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
-| [Gentoo](http://www.gentoo.org) | Advanced Linux distribution | Developer
+| [VOTCA](https://www.votca.org) | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
+| [Gentoo](https://www.gentoo.org) | Advanced Linux distribution | Developer
 | [Fedora](https://start.fedoraproject.org) | Linux distribution | Contributor
 | [OpenSuse](https://en.opensuse.org) | Linux distribution | Contributor
-| [ESPReSo++](http://www.espresso-pp.de) | Successor of the ESPResSo simulation package | Developer
-| [GroMaCS](http://www.gromacs.org) | Versatile package to perform molecular dynamics | Developer (inactive)
-| [ESPReSo](http://www.espressomd.org) | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
+| [ESPReSo++](https://www.espresso-pp.de) | Successor of the ESPResSo simulation package | Developer
+| [GroMaCS](https://www.gromacs.org) | Versatile package to perform molecular dynamics | Developer (inactive)
+| [ESPReSo](https://www.espressomd.org) | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
 | |
 
 For more infomation see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans)
