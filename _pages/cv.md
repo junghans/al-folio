@@ -14,7 +14,7 @@ nav: true
 
 ### Education ###
 
-| **University*          | | 	
+| **University**         | | 	
 | Oct. 2010              | Dr. rer. nat. (Ph.D.) in Physics, Johannes Gutenberg University of Mainz, Germany |
 |                        | |
 | Nov. 2006              | Diploma (M.Sc.) in Physics, University of Leipzig, Germany |
