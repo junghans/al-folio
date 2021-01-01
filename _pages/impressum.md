@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /impressum/
+permalink: {{ site.impressum_path }}
 title: impressum
 description: To go conform with german law
 nav: false
