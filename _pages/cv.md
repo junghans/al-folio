@@ -8,7 +8,7 @@ nav: true
 
 ### Personal Information ###
 
-| **Name**               | Christoph Junghans |
+| **Name**&nbsp;         | Christoph Junghans |
 |                        | ![Image of Christoph](../assets/img/junghans.jpg) |
 
 
