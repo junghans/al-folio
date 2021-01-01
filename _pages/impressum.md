@@ -12,7 +12,7 @@ Christoph Junghans <br>
 Siedlung Süd II / 10<br>
 D-04824 Beucha<br>
 
-##Kontakt ##
+## Kontakt ##
 
 Email: [../assets/img/email.png]<br>
 
@@ -89,5 +89,6 @@ Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets de
 ## Fragen an den Datenschutzbeauftragten ##
 Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:
 
+Christoph Junghans
 
-Die Datenschutzerklärung wurde mit dem [Datenschutzerklärungs-Generator der activeMind AG erstellt](https://www.activemind.de/datenschutz/datenschutzhinweis-generator/).*
+*Die Datenschutzerklärung wurde mit dem [Datenschutzerklärungs-Generator der activeMind AG erstellt](https://www.activemind.de/datenschutz/datenschutzhinweis-generator/).*
