@@ -50,6 +50,11 @@ table td:first-of-type {
 | Feb. 2003 - Apr. 2003  | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Halle, Germany
 | Mar. 2002              | Student Assistant, Institute for Theoretical Physics, University of Leipzig
 | |
+<style>
+table td:first-of-type {
+    width:;
+}
+</style>
 
 ### Awards ###
 
@@ -76,8 +81,7 @@ table td:first-of-type {
 | [ESPReSo++](http://www.espresso-pp.de) | Successor of the ESPResSo simulation package | Developer
 | [GroMaCS](http://www.gromacs.org) | Versatile package to perform molecular dynamics | Developer (inactive)
 | [ESPReSo](http://www.espressomd.org) | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
-%| [Gnuplot](http://gnuplot.info) | A portable command-line driven graphing utility  | Contributor
-%| [Gnuplot Utils](http://gnuplotutils.googlecode.com/) | Some useful scripts for gnuplot | Developer
+
 
 For more infomation see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans)
 
@@ -94,12 +98,14 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 
 #### Code Review ####
+
 - [Gromacs](https://gerrit.gromacs.org)
 - [OpenSuse Build Service](https://build.opensuse.org)
 - [Gentoo Science Project](https://github.com/gentoo-science)
 
 
 #### Conferences ####
+
 - Member of the Organization Committee for the [Salishan Conference on High Speed Computing](http://salishan.ahsc-nm.org/)
 - Chairman for the APS annual meetings
 
@@ -111,13 +117,13 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research
 | Oct. 2002 - Sep. 2005 | Elected member of student government (Fachschaftsrat) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees
 
-%### Committee Experience ####
-%- Spokesperson of the students of the Physics Department (2 years)
-%- Full member of faculty council of the Physics Department (2 years)
-%- Full member of council of the University of Leipzig (2 years)
-%- Member of the commission for examination issues of the Physics Department (2 years)
-%- Member of the commission for study affairs of Physics Department (3 years)
-%- Treasurer of the student government of the Physics Department (1 year)
+[//]: # ### Committee Experience ####
+[//]: # - Spokesperson of the students of the Physics Department (2 years)
+[//]: # - Full member of faculty council of the Physics Department (2 years)
+[//]: # - Full member of council of the University of Leipzig (2 years)
+[//]: # - Member of the commission for examination issues of the Physics Department (2 years)
+[//]: # - Member of the commission for study affairs of Physics Department (3 years)
+[//]: # - Treasurer of the student government of the Physics Department (1 year)
 
 
 ### Computer Skills ###
@@ -131,6 +137,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 ### Teaching Experience ###
 
 #### Teaching Assistant ####
+
 | Apr. 2008 - Sep. 2008 | Theoretical physics III, Johannes Gutenberg University of Mainz
 | Oct. 2007 - Mar. 2008 | Theoretical physics II, Johannes Gutenberg University of Mainz
 | Apr. 2007 - Sep. 2007 | Theoretical physics I, Johannes Gutenberg University of Mainz
@@ -138,6 +145,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Sep. 2004 - Oct. 2004 | Mathematical preparation course for first-year students, University of Leipzig
 
 #### Mentoring ####
+
 | June 2019 - Present    | Postdoc. Research Assistant, Los Alamos National Laboratory
 | Feb. 2018 - Apr. 2020  | Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory
 | May  2018 - Feb. 2019  | Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory
@@ -165,6 +173,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Oct. 2005 - Mar. 2006  | Simulation methods in generalized ensembles (2 Students), University of Leipzig
 
 #### Tutorials (invited) ####
+
 | Aug. 2019 | "VOTCA and LAMMPS for electronic spectroscopy and transport" (Tutorial), [LAMMPS Workshop and Symposium](https://lammps.sandia.gov/workshops/Aug19/workshop.html), Albuquerque, NM
 | Oct. 2016 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-1371.html), Mainz, Germany
 | May  2016 | Gitlab Hands-On course, ASC/NGC Program, LANL
@@ -184,10 +193,12 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 ### Talks ###
 
 #### Colloquium Talks ####
+
 | July 2011 | "Locality Analysis via Adaptive Resolution Simulations", Theoriekolloquium, [Faculty of Natural Sciences II](http://www.natfak2.uni-halle.de), [Martin Luther University Halle-Wittenberg](http://www.uni-halle.de)
 
 
 #### Invited Talks ####
+
 | Oct. 2016 | "Recent developments in VOTCA", [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-1371.html), Mainz, Germany
 | Oct. 2015 | "Recent and Future Developments of VOTCA", [CECAM](http://www.cecam.org) [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA"](http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Oct. 2014 | "Introduction to coarse-graining of liquids and soft matter using VOTCA", [CECAM](http://www.cecam.org) ["School on Multiscale Modeling and Use of Espresso++ and VOTCA"](http://www.cecam.org/workshop-1076.html), Mainz, Germany
@@ -201,6 +212,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 
 #### Seminar Talks (invited) ####
+
 | Sep. 2018 | "Co-Design at Los Alamos National Laboratory", [University of Reims Champagne-Ardenne](http://www.univ-reims.eu/) 
 | June 2017 | "Parallel Runtime Environments with Cloud Database: Performance Study for HMM with Adaptive Sampling", Nambe Meeting, Los Alamos, NM 
 | Oct. 2016 | "Co-Design at Los Alamos National Laboratory", [MPCDF](http://www.mpcdf.mpg.de/)
@@ -221,6 +233,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 
 #### Contributed Talks ####
+
 | Aug. 2017 | "LAMMPS on CMake", [August 2017 LAMMPS Users' Workshop and Symposium](http://lammps.sandia.gov/workshops/Aug17/workshop.html), Albuquerque, NM
 | Feb. 2017 | "Using Asynchronous Runtimes to Support Multiscale Multiphysics On the Trinity Supercomputer" (with R. Pavel), Programming Models and Co-Design Meeting, Livermore, CA
 | Feb. 2016 | "Tabasco: A realistic multi-scale proxy app for Material science" (with S. Mniszewski), Programming Models and Co-Design Meeting, Los Alamos, NM
@@ -238,4 +251,8 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Nov. 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08](http://www.physik.uni-leipzig.de/~janke/CompPhys08), [ITP Leipzig](http://www.physik.uni-leipzig.de)
 | June 2008 | "Adjusting dynamic material properties by a thermostat", ICMMES 2008, [University of Amsterdam](http://www.uva.nl)
 | Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008](http://berlin08.dpg-tagungen.de/index.html?lang=en), Berlin
+
+### Publications ###
+
+see [here](publications)
 
