@@ -142,7 +142,7 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
     *Adaptive Resolution Simulation as a Grand Canonical Molecular Dynamics Scheme: Principles, Applications, Perspectives*,<br>
     in: C. Clementi (Ed.),<br>
     *Multiscale Methods in Molecular Biophysics*,<br>
-    Series in Computational Biophysics, CRC Press (2016), ISBN 1482225700 [[online](2016a.pdf)].
+    Series in Computational Biophysics, CRC Press (2016), ISBN 1482225700 [[online](2016b.pdf)].
 0.  E. Apol, R. Apostolov, H.J.C. Berendsen, A. van Buuren, P. Bjelkmar, R. van Drunen, A. Feenstra, S. Fritsch, G. Groenhof, **C. Junghans**, P. Kasson, P. Larsson, P. Meulenhoff, T. Murtola, S. Pall, S. Pronk, R. Schulz, M. Shirts, A. Sijbers, P. Tieleman, B. Hess, D. van der Spoel, and E. Lindahl, <br>
     *[Gromacs User Manual Version 4.6](http://dx.doi.org/10.13140/2.1.1310.0480)*<br>
     [gromacs.org](http://www.gromacs.org) (2013) [[online](http://ftp.gromacs.org/pub/manual/manual-4.6.5.pdf)].
