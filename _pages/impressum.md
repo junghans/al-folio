@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /
+permalink: /impressum/
 title: impressum
 description: To go conform with german law
-nav: true
+nav: false
 ---
 
 # Anbieterkennzeichnung #
@@ -14,7 +14,7 @@ D-04824 Beucha<br>
 
 ##Kontakt ##
 
-Email: [../img/email.png]<br>
+Email: [../assets/img/email.png]<br>
 
 # Disclaimer - rechtliche Hinweise #
 
