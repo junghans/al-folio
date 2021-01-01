@@ -31,7 +31,7 @@ nav: true
 
 <style>
 table td:first-of-type {
-    width: 10em;
+    width: 12em;
 }
 </style>
 
