@@ -55,7 +55,7 @@ nav: true
 2. D. G. Roehm, R. S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and *C. Junghans*,<br>
    *Distributed Database Kriging for Adaptive Sampling*,<br>
    [Comp. Phys. Comm. 192, 138 (2015)](http://dx.doi.org/10.1016/j.cpc.2015.03.006) [[online](2015b.pdf)].
-2. S. Bevc, *C. Junghans*, and M. Praprotnik, ![cover2015a](2015a.jpg){: style="float: right"}<br>
+2. S. Bevc, *C. Junghans*, and M. Praprotnik, [![cover2015a](2015a.jpg){: style="float: right"}](2015a_big.jpg)<br>
    *STOCK: Structure Mapper and Online Coarse-Graining Kit for Molecular Simulations*,<br>
    [J. Comp. Chem. 36, 467 (2015)](http://dx.doi.org/10.1002/jcc.23806) [[online](2015a.pdf)] [[Homepage](http://stock.cmm.ki.si)].
 2. *C. Junghans*, D. Perez and T. Vogel,<br>
@@ -67,7 +67,7 @@ nav: true
 2. A. Nagarajan, *C. Junghans* and S. Matysiak,<br>
    *Multiscale simulation of liquid water using a four-to-one mapping for coarse-graining*,<br>
    [J. Chem. Theo. Comp. 9, 5168 (2013)](http://dx.doi.org/10.1021/ct400566j) [[online](2013b.pdf)].
-2. S. Bevc, *C. Junghans*, K. Kremer and M. Praprotnik, HTML([[RIGHT../publications/2013a.jpg] ../publications/2013a_big.jpg])<br>
+2. S. Bevc, *C. Junghans*, K. Kremer and M. Praprotnik, [![cover2013a](2013a.jpg){: style="float: right"}](2013a_big.jpg)<br>
    *Adaptive resolution simulation of salt solutions*,<br>
    [New J. Phys., 15, 105007 (2013)](http://dx.doi.org/10.1088/1367-2630/15/10/105007) [[online](2013a.pdf)].
 2. P. Ganguly, D. Mukherji, *C. Junghans* and N. F. A. van der Vegt,<br>
@@ -85,7 +85,7 @@ nav: true
 2. *C. Junghans*, W. Janke and M. Bachmann,<br>
    *Hierarchies in Nucleation Transitions*,<br>
    [Comp. Phys. Comm. 182, 1937 (2011)](http://dx.doi.org/10.1016/j.cpc.2010.11.015) [[online](2010d.pdf)].
-2. B. P. Lambeth, Jr., *C. Junghans*, K. Kremer, C. Clementi, and L. Delle Site, HTML([[RIGHT../publications/2010c.jpg] ../publications/2010c_big.jpg])
+2. B. P. Lambeth, Jr., *C. Junghans*, K. Kremer, C. Clementi, and L. Delle Site, [![cover2010c](2010c.jpg){: style="float: right"}](2010c_big.jpg)<br>
    <br>*Communication: On the Locality of Hydrogen Bond Networks at Hydrophobic Interface*,<br>
    [J. Chem. Phys. 133,  221101 (2010)](http://dx.doi.org/10.1063/1.3522773) [[online](2010c.pdf)].<br>
 2. *C. Junghans* and S. Poblete,<br>
