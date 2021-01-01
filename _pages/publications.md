@@ -86,7 +86,7 @@ nav: true
    *Hierarchies in Nucleation Transitions*,<br>
    [Comp. Phys. Comm. 182, 1937 (2011)](http://dx.doi.org/10.1016/j.cpc.2010.11.015) [[online](2010d.pdf)].
 0. B. P. Lambeth, Jr., **C. Junghans**, K. Kremer, C. Clementi, and L. Delle Site, [![cover2010c](2010c.jpg){: style="float: right"}](2010c_big.jpg)<br>
-   <br>*Communication: On the Locality of Hydrogen Bond Networks at Hydrophobic Interface*,<br>
+   *Communication: On the Locality of Hydrogen Bond Networks at Hydrophobic Interface*,<br>
    [J. Chem. Phys. 133,  221101 (2010)](http://dx.doi.org/10.1063/1.3522773) [[online](2010c.pdf)].<br>
 0. **C. Junghans** and S. Poblete,<br>
    *A reference implementation of the adaptive resolution scheme in ESPResSo*,<br>
