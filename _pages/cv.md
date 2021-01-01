@@ -29,6 +29,11 @@ nav: true
 
 ### Work Experience ###
 
+<style>
+table th:first-of-type {
+    width: 25em;
+}
+</style>
 | July 2018 - Present    | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
 | Jan. 2017 - July 2018  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
@@ -44,4 +49,4 @@ nav: true
 | Sep. 2004              | Student Assistant, Institute for Meteorology, University of Leipzig
 | Feb. 2003 - Apr. 2003  | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Halle, Germany
 | Mar. 2002              | Student Assistant, Institute for Theoretical Physics, University of Leipzig
-| <div style="width:290px">bla</div> |
+| |
