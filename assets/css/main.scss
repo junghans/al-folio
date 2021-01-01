@@ -13,10 +13,11 @@ $max-content-width: {{site.max_width}};
   "base"
 ;
 
-table tr {
-    border-spacing: 20px;
-}
-
-table {
-    border-spacing: 20px;
-}
+th
+        {
+        padding         : .5em 0;
+        }
+td
+        {
+        padding         : .2em .5em;
+        }
