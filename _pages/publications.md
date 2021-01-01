@@ -166,7 +166,7 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 0.  **C. Junghans**, M. Bachmann and W. Janke,<br>
     *[Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model](http://dx.doi.org/10.13140/2.1.4488.5440)*<br>
     in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),<br>
-    *From Computational Biophysics to Systems Biology 2007*, [NIC Series Vol. 36)(https://juser.fz-juelich.de/record/135931/files/NIC222945.pdf), Jülich (2007), 169 [[online](2007a.pdf)].
+    *From Computational Biophysics to Systems Biology 2007*, [NIC Series Vol. 36](https://juser.fz-juelich.de/record/135931/files/NIC222945.pdf), Jülich (2007), 169 [[online](2007a.pdf)].
 0.  **C. Junghans** and U. H. E. Hansmann,<br>
     *Cross-Check Methods in Protein Simulations*,<br>
     in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),<br>
