@@ -121,11 +121,14 @@ nav: true
 
 For more infomation see [my ResearcherID profile](http://www.researcherid.com/rid/G-4238-2010), [my Google Scholar profile](http://scholar.google.com/citations?user=nwPxp24AAAAJ&pagesize=100), [my ORCID profile](http://orcid.org/0000-0003-0925-1458), [my ResearchGate profile](https://www.researchgate.net/profile/Christoph_Junghans/publications/) or [my Impactstory profile](https://impactstory.org/u/0000-0003-0925-1458).
 
+
 ### Theses ###
+
+{: reversed="reversed"}
 
 0.  **C. Junghans**,<br>
     *Between the Scales: Water from different Perspectives*,<br>
-    [PhD Thesis](http://edoc.mpg.de/display.epl?mode=doc&id=520521&col=69&grp=474), [Johannes Gutenberg-Universität Mainz (2010)](http://ubm.opus.hbz-nrw.de/volltexte/2010/2457), [Google Books](http://books.google.com/books/about?id=BDVcf_fJE1gC), [[online](2010e.pdf)].
+    [PhD Thesis](http://edoc.mpg.de/display.epl?mode=doc&id=520521&col=69&grp=474), [Johannes Gutenberg-Universität Mainz (2010)](http://doi.org/10.25358/openscience-1007), [Google Books](http://books.google.com/books/about?id=BDVcf_fJE1gC) [[online](2010e.pdf)].
 0.  **C. Junghans**,<br>
     *Aggregation of Mesoscopic Protein-like Heteropolymers*,<br>
     Diploma Thesis, Universität Leipzig (2006) [[online](2006d.pdf)].
@@ -133,14 +136,16 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 
 ### Book Chapters ###
 
+{: reversed="reversed"}
+
 0.  L. Delle Site, A. Agarwal, **C. Junghans**, and H. Wang, <br>
     *Adaptive Resolution Simulation as a Grand Canonical Molecular Dynamics Scheme: Principles, Applications, Perspectives*,<br>
     in: C. Clementi (Ed.),<br>
     *Multiscale Methods in Molecular Biophysics*,<br>
     Series in Computational Biophysics, CRC Press (2016), ISBN 1482225700 [[online](2016a.pdf)].
 0.  E. Apol, R. Apostolov, H.J.C. Berendsen, A. van Buuren, P. Bjelkmar, R. van Drunen, A. Feenstra, S. Fritsch, G. Groenhof, **C. Junghans**, P. Kasson, P. Larsson, P. Meulenhoff, T. Murtola, S. Pall, S. Pronk, R. Schulz, M. Shirts, A. Sijbers, P. Tieleman, B. Hess, D. van der Spoel, and E. Lindahl, <br>
-    *[Gromacs User Manual Version 4.6](http://dx.doi.org/10.13140/2.1.1310.0480)<br>
-    [gromacs.org](http://www.gromacs.org) (2013) [[online](ftp:*ftp.gromacs.org/pub/manual/manual-4.6.5.pdf)].
+    *[Gromacs User Manual Version 4.6](http://dx.doi.org/10.13140/2.1.1310.0480)*<br>
+    [gromacs.org](http://www.gromacs.org) (2013) [[online](http://ftp.gromacs.org/pub/manual/manual-4.6.5.pdf)].
 0.  **C. Junghans**, M. Praprotnik and L. Delle Site,<br>
     *Adaptive Resolution Schemes*,<br>
     in: J. Grotendorst, N. Attig, S. Blügel and D. Marx (Eds.),<br>
@@ -148,6 +153,8 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 
 
 ### Proceedings ###
+
+{: reversed="reversed"}
 
 0.  S. Eidenbenz, K. Davis, A. Voter, H. Djidjev, L. Gurvits, **C. Junghans**, S. Mniszewski, D. Perez, N. Santhi and S. Thulasidasan,<br>
     *Optimization Principles for Codesign applied to Molecular Dynamics: Design Space Exploration, Performance Prediction, and Optimization Strategies*,<br>
@@ -169,17 +176,16 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 
 ### Other Publications ###
 
+{: reversed="reversed"}
+
 0.  *Balancing the load: Los Alamos researchers develop code to distribute computation more efficiently and across increasing numbers of supercomputer processors.*<br>
-    [ASCR Discovery Story, May 2018](http://ascr-discovery.science.doe.gov/2018/05/balancing-the-load/), [HPCwire](https://www.hpcwire.com/off-the-wire/los-alamos-scientists-attack-load-balancing-challenge/), [insideHPC](https://insidehpc.com/2018/05/balancing-load-million-cores-concert/) and [LANL Science Brief](https://www.lanl.gov/discover/news-stories-archive/2019/April/0418-balancing-the-load.php).
-  
+    [ASCR Discovery Story, May 2018](https://ascr-discovery.org/2018/05/balancing-the-load/amp/), [HPCwire](https://www.hpcwire.com/off-the-wire/los-alamos-scientists-attack-load-balancing-challenge/), [insideHPC](https://insidehpc.com/2018/05/balancing-load-million-cores-concert/) and [LANL Science Brief](https://www.lanl.gov/discover/science-briefs/2019/April/0418-balancing-the-load.php).
 0.  **C. Junghans**, A. K. Hüttel and U. Müller, <br>
     *Gentoo Linux: Quelltexte und Rolling Releases*,<br>
     [c't Magazin 16, 162 (2012)](http://www.heise.de/ct/inhalt/2012/16/162/).
-  
 0.  **C. Junghans**,<br>
     *The Method of Multicanonical Simulations in Different Models*, <br>
     Technical Report, Universität Leipzig (2005), [[online](2005b.pdf)].
-  
 0.  **C. Junghans**,<br>
     *Modern Methods in Protein Simulations*, <br>
     in: R. Esser(Ed.), [Technical Report IB-2005-13](http://www.fz-juelich.de/ias/jsc/EN/Career/Gueststudentprogramme/Previous_years/2005/proceedings.pdf?__blob=publicationFile),
