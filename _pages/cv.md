@@ -96,9 +96,9 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 #### Code Review ####
 
-- [Gromacs](https://gerrit.gromacs.org)
+- [Gromacs](https://gitlab.com/gromacs/gromacs)
 - [OpenSuse Build Service](https://build.opensuse.org)
-- [Gentoo Science Project](https://github.com/gentoo-science)
+- [Gentoo Science Project](https://github.com/gentoo/sci)
 
 
 #### Conferences ####
@@ -113,6 +113,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | July 2007 - Dec. 2008 | PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz
 | Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research
 | Oct. 2002 - Sep. 2005 | Elected member of student government (Fachschaftsrat) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees
+| |
 
 [//]: # ### Committee Experience ####
 [//]: # - Spokesperson of the students of the Physics Department (2 years)
