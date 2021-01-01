@@ -158,7 +158,7 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 
 0.  S. Eidenbenz, K. Davis, A. Voter, H. Djidjev, L. Gurvits, **C. Junghans**, S. Mniszewski, D. Perez, N. Santhi and S. Thulasidasan,<br>
     *Optimization Principles for Codesign applied to Molecular Dynamics: Design Space Exploration, Performance Prediction, and Optimization Strategies*,<br>
-    in: Proceedings of the [DOE ASCR Exascale Research Conference, Portland, OR (2012)](http://exascaleresearch.labworks.org/apr2012/conference), [[online](2012d.pdf)] (LA-UR 12-20070). 
+    in: Proceedings of the DOE ASCR Exascale Research Conference, Portland, OR (2012), [[online](2012d.pdf)] (LA-UR 12-20070). 
 0.  T. Weidauer, **C. Junghans**, O. Pauluis, M. Pütz and J. Schumacher,<br>
     *Shallow Moist Convection*,<br>
     in: G. Münster, D. Wolf, M. Kremer (Eds.),<br>
@@ -166,12 +166,12 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 0.  **C. Junghans**, M. Bachmann and W. Janke,<br>
     *[Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model](http://dx.doi.org/10.13140/2.1.4488.5440)*<br>
     in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),<br>
-    *From Computational Biophysics to Systems Biology 2007*, NIC Series Vol. 36, Jülich (2007), 169 [[online](2007a.pdf)].
+    *From Computational Biophysics to Systems Biology 2007*, [NIC Series Vol. 36)[https://juser.fz-juelich.de/record/135931/files/NIC222945.pdf), Jülich (2007), 169 [[online](2007a.pdf)].
 0.  **C. Junghans** and U. H. E. Hansmann,<br>
     *Cross-Check Methods in Protein Simulations*,<br>
     in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),<br>
     *From Computational Biophysics to Systems Biology 2006*,
-    NIC Series Vol. 34, Jülich (2006), 157.
+    [NIC Series Vol. 34](https://juser.fz-juelich.de/record/135929/files/NIC217673.pdf), Jülich (2006), 157 [[online](2006b.pdf).
 
 
 ### Other Publications ###
