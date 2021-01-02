@@ -55,7 +55,7 @@ jobs:
     - name: Clean up unneeded files
       run: |
         mv cv/tex/tmp/cv.pdf cv/tex
-        rm cv/tex/tmp/
+        rm -rvf cv/tex/tmp/
     - name: Deploy website 
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.DRY_RUN }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
