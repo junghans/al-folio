@@ -30,6 +30,7 @@ jobs:
         gem install bundler
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
+        sudo apt-get install latexmk
     - name: Setup deploy options
       id: setup
       run: |
@@ -48,10 +49,11 @@ jobs:
         fi
         mkdir cv/tex/tmp
     - name: Build cv
-      uses: xu-cheng/latex-action@v2
-      with:
-        root_file: ../cv.tex
-        working_directory: cv/tex/tmp
+      run: |
+        latexmk -pdf ../cv.tex
+        latexmk -C ../cv.tex
+        ls
+      working_directory: cv/tex/tmp
     - name: Clean up unneeded files
       run: |
         mv cv/tex/tmp/cv.pdf cv/tex
