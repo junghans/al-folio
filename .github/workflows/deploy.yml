@@ -49,8 +49,12 @@ jobs:
     - name: Build cv
       uses: dante-ev/latex-action@master
       with:
-        root_file: cv.tex
-        working_directory: cv/tex
+        root_file: ../cv.tex
+        working_directory: cv/tex/tmp
+    - name: Clean up unneeded files
+      run: |
+        mv cv/tex/tmp/cv.pdf cv/tex
+        rm -rfv blog/ cv/tex/tmp/
     - name: Deploy website 
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.DRY_RUN }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
