@@ -30,7 +30,7 @@ jobs:
         gem install bundler
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
-        sudo apt-get install latexmk
+        sudo apt-get install latexmk texlive-latex-extra
     - name: Setup deploy options
       id: setup
       run: |
