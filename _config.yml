@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Private Homepage of Christoph Junghans 
+title: Personal Homepage of Christoph Junghans 
 first_name: Christoph
 middle_name: 
 last_name: Junghans
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Private Homepage of Christoph Junghans 
+  Personal Homepage of Christoph Junghans 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -70,7 +70,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: junghans # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections

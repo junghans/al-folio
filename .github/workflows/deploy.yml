@@ -48,7 +48,7 @@ jobs:
         fi
         mkdir cv/tex/tmp
     - name: Build cv
-      uses: dante-ev/latex-action@master
+      uses: xu-cheng/latex-action@v2
       with:
         root_file: ../cv.tex
         working_directory: cv/tex/tmp
