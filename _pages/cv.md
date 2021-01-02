@@ -6,6 +6,11 @@ description:
 nav: true
 ---
 
+<!-- Place PDF download link at the top right. -->
+<div class="row" style="margin-top: -3.5em;">
+<a href="cv/tex/cv.pdf" target="_blank" title="CV as pdf"><i class="fas fa-file-pdf"></i></a>
+</div>
+
 ### Personal Information ###
 
 | **Name**               | Christoph Junghans
