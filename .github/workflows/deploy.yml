@@ -50,7 +50,7 @@ jobs:
       uses: dante-ev/latex-action@master
       with:
         root_file: cv.tex
-      working_directory: cv/tex
+        working_directory: cv/tex
     - name: Deploy website 
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.DRY_RUN }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
