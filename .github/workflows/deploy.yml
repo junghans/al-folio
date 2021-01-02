@@ -47,17 +47,12 @@ jobs:
         else
           echo "::set-output name=DEPLOY_BRANCH::gh-pages"
         fi
-        mkdir cv/tex/tmp
     - name: Build cv
       run: |
-        latexmk -pdf ../cv.tex
-        latexmk -C ../cv.tex
+        latexmk -pdf cv.tex
+        latexmk -c cv.tex
         ls
-      working-directory: cv/tex/tmp
-    - name: Clean up unneeded files
-      run: |
-        mv cv/tex/tmp/cv.pdf cv/tex
-        rm -rvf cv/tex/tmp/
+      working-directory: cv/tex
     - name: Deploy website 
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.DRY_RUN }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
