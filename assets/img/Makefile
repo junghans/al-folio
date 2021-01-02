@@ -1,7 +1,8 @@
 all: email.png
 
 MAIL="junghans@\{votca.org,lanl.gov,gentoo.org,fedoraproject.org\}"
-	
+
+.INTERMEDIATE: email.tex
 email.tex: Makefile
 	echo '\documentclass{minimal}' > $@
 	echo '\begin{document}' >> $@
