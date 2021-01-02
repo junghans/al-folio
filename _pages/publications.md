@@ -47,8 +47,8 @@ nav: true
    ACM, New York, NY, USA, [Article 4](http://dx.doi.org/10.1145/2834899.2834908) [[online](2015e.pdf)].
 0. S. Y. Mashayak, M. N. Jochum, K. Koschke, N. R. Aluru, V. Rühle, and **C. Junghans**,<br>
    *Relative entropy and optimization-driven coarse-graining methods in VOTCA*,<br>
-   [PLoS one 10, e131754 (2015)](http://dx.doi.org/10.1371/journal.pone.0131754) [[online](2015d.pdf)].<br>
-   "Among the top 10% most cited PLOS ONE papers published in 2015." (2019)
+   [PLoS ONE 10, e131754 (2015)](http://dx.doi.org/10.1371/journal.pone.0131754) [[online](2015d.pdf)].<br>
+   "Among the top 10% most cited PLoS ONE papers published in 2015." (2019)
 0. S. M. Mniszewski, **C. Junghans**, A. F. Voter, D. Perez, and S. J. Eidenbenz,<br>
    *TADSim: Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics*,<br>
    [Trans. Mod. Comp. Sim.  25, 15 (2015)](http://dx.doi.org/10.1145/2699715) [[online](2015c.pdf)].
@@ -179,7 +179,7 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 {: reversed="reversed"}
 
 0.  *Balancing the load: Los Alamos researchers develop code to distribute computation more efficiently and across increasing numbers of supercomputer processors.*<br>
-    [ASCR Discovery Story, May 2018](https://ascr-discovery.org/2018/05/balancing-the-load/amp/), [HPCwire](https://www.hpcwire.com/off-the-wire/los-alamos-scientists-attack-load-balancing-challenge/), [insideHPC](https://insidehpc.com/2018/05/balancing-load-million-cores-concert/) and [LANL Science Brief](https://www.lanl.gov/discover/science-briefs/2019/April/0418-balancing-the-load.php).
+    [ASCR Discovery Story](https://ascr-discovery.org/2018/05/balancing-the-load/amp/), [HPCwire](https://www.hpcwire.com/off-the-wire/los-alamos-scientists-attack-load-balancing-challenge/), [insideHPC](https://insidehpc.com/2018/05/balancing-load-million-cores-concert/) and [LANL Science Brief](https://www.lanl.gov/discover/science-briefs/2019/April/0418-balancing-the-load.php) (2018).
 0.  **C. Junghans**, A. K. Hüttel and U. Müller, <br>
     *Gentoo Linux: Quelltexte und Rolling Releases*,<br>
     [c't Magazin 16, 162 (2012)](http://www.heise.de/ct/inhalt/2012/16/162/).
