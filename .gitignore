@@ -7,3 +7,11 @@ _site
 Gemfile.lock
 
 assets/img/email.tex
+*~
+cv/tex/cv.aux
+cv/tex/cv.fdb_latexmk
+cv/tex/cv.fls
+cv/tex/cv.log
+cv/tex/cv.out
+cv/tex/cv.pdf
+cv/tex/cv.dvi
