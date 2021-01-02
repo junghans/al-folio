@@ -53,7 +53,7 @@ jobs:
         latexmk -pdf ../cv.tex
         latexmk -C ../cv.tex
         ls
-      working_directory: cv/tex/tmp
+      working-directory: cv/tex/tmp
     - name: Clean up unneeded files
       run: |
         mv cv/tex/tmp/cv.pdf cv/tex
