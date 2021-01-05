@@ -19,14 +19,14 @@ nav: true
 ### Education ###
 
 | **University**         | 	
-| Oct. 2010              | Dr. rer. nat. (Ph.D.) in Physics, Johannes Gutenberg University of Mainz, Germany
+| Oct. 2010              | Dr. rer. nat. (Ph.D.) in Physics, Johannes Gutenberg University, Mainz, Germany
 |                        |
 | Nov. 2006              | Diploma (M.Sc.) in Physics, University of Leipzig, Germany
 |                        | Minors: Meteorology, Chemistry |
 |                        |
 | **School**             |
 | July 2000              | Abitur, Gymnasium Brandis, Germany
-|                        | Majors: Mathematics, Physics
+|                        | Major field of study: Mathematics, Physics
 |                        |
 
 
